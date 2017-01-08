@@ -5,34 +5,32 @@ description: "smooooooth"
 tags: [3D printing]
 ---
 
-I recently picked up a Monoprice Select Mini and have been extremely impressed by this printer.  I didn't have any exposure to 3D printing before purchasing this model and can say that it's a great model to get your feet wet with the hobby.  
+I recently picked up a Monoprice Select Mini and have been extremely impressed by this printer.  I didn't have any exposure to 3D printing before going with the mini and can say that it's a great starter printer.  
 
-After a number of successful prints I decided to start tinkering with the device.  My prints would get extremely stuck to the bed and I got tired of replacing the tape every 4 or 5 prints.  It sounded like glass was the way to go, so I ventured a trip to Lowes and grabbed some glass.
+After a number of successful prints I wanted to start tinkering.  My prints would get extremely stuck to the bed after printing and I got tired of replacing the tape every 4 or 5 prints.  It sounded like glass was the way to go so I ventured a trip to Lowes and grabbed some.
  
- Note, I did not get borosilicate glass.  I've read conflicting opinions online about needing to use it and decided a $2.50 experiment with regular framing glass from a big box store was worth the risk.  If it fails I'll take this post down and sing it's praises.  It should also be shared that I have only been printing PLA and don't intend on moving to other materials (read: ABS) anytime soon.
+ Note, I did not get borosilicate glass.  I know it has better thermal properties and is a superior product.  I read a few opinions on various forums where folks have said that it's only really needed if you're printing 80C and higher.  I plan to go no higher than 60C for PLA decided a $2.50 experiment with regular glass be worth the risk.  If this turns out to be a bad idea I'll make another post and/or become vocal in other 'borosilicate' vs 'regular' threads.  I'm also not printing non-stop or doing extremely long prints so take that into consideration.
   
-### Couple of Important Links
+### Couple of Links
 
-* [Google Doc created by u/G33Kinator](https://docs.google.com/document/d/1HJaLIcUD4oiIUYu6In7Bxf7WxAOiT3n48RvOe5pvSHk/edit?usp=sharing)
-* [Monoprice Select Mini Glass Bed Spacer by Sumpy (Thingiverse)](https://www.thingiverse.com/thing:1621650)
-* [Heatsink Thermal Pads](https://www.amazon.com/StarTech-com-Heatsink-Thermal-Pads-HSFPHASECM/dp/B0009B0K2I) (see note below)
+* [Google Doc created by u/G33Kinator](https://docs.google.com/document/d/1HJaLIcUD4oiIUYu6In7Bxf7WxAOiT3n48RvOe5pvSHk/edit?usp=sharing) - Extremely helpful for referencing many topics, including going with a glass bed
+* [Monoprice Select Mini Glass Bed Spacer by Sumpy (Thingiverse)](https://www.thingiverse.com/thing:1621650) - Print this now
+* [Heatsink Thermal Pads](https://www.amazon.com/StarTech-com-Heatsink-Thermal-Pads-HSFPHASECM/dp/B0009B0K2I) - Worked, but didn't love them (more on that below)
 
 ### Print the Glass Bed Spacer
 
-The [Monoprice Select Mini Glass Bed Spacer by Sumpy (Thingiverse)](https://www.thingiverse.com/thing:1621650) printed perfectly for me.  It clips on easily and activates the endstop switch on the Z axis sooner to compensate for the glass.  It printed out at a 3/32" thickness practically identical to the glass I purchased.
+The [Monoprice Select Mini Glass Bed Spacer by Sumpy (Thingiverse)](https://www.thingiverse.com/thing:1621650) printed perfectly for me with supports.  It clips on easily and activates the endstop switch on the Z axis sooner to compensate for the glass.  It printed out at a 3/32" thickness practically identical to the glass I purchased.
  
 <figure class="third">
 	<a href="/images/glass/IMG_2271.jpg"><img src="/images/glass/IMG_2271.jpg" alt=""></a>
 	<a href="/images/glass/IMG_2272.jpg"><img src="/images/glass/IMG_2272.jpg" alt=""></a>
 	<a href="/images/glass/IMG_2274.jpg"><img src="/images/glass/IMG_2274.jpg" alt=""></a>
-	<figcaption>Glass Bed Spacer</figcaption>
+	<figcaption>Glass Bed Spacer.  Once printed set aside.</figcaption>
 </figure>
-
-Once that's done, set it aside.
 
 ### Disassemble the printer
 
-We need to access the back of the tower, if you will, so we can attach the spacer.  Unplug the printer and lay it on flat on a solid surface.  Unscrew the six screws on the bottom and set aside.  Be careful as the main board is mounted to this plate.  I can be rotated and moved out of the way.
+We need to access the back side of the printer so we can attach the spacer.  Unplug the printer and lay it on flat on a solid surface.  Unscrew the six screws on the bottom and set aside.  Be careful as the main board is mounted to this plate.  It can be rotated and moved out of the way without unplugging anything for this procedure.
 
 ![Bottom Open]({{ site.url }}/images/glass/IMG_2266.jpg)
 
