@@ -74,11 +74,11 @@ Attaching the glass bed spacer is fairly simple.  I started at the bottom, hooke
 	<figcaption>Glass Bed Spacer in place</figcaption>
 </figure>
 
-After the be spacer is in place reassemble everything and you'll be ready to attach your glass.
+After the bed spacer is in place reassemble everything and you'll be ready to attach your glass.
 
 ### Glass!
 
-I removed the existing tape and cleaned off any residue with Goo Gone.  Then I went to my local Lowes and had them cut some glass for me.  I had them cut it roughly 130mm by 140mm.  I also stopped by my local MicroCenter and picked up a couple packs of [Heatsink Thermal Pads](https://www.amazon.com/StarTech-com-Heatsink-Thermal-Pads-HSFPHASECM/dp/B0009B0K2I).  I have to be honest in that I'm not 100% thrilled by the pads, but they seem to have done the trick.  Check the reviews on Amazon; a few of the pads didn't stick well and go along with what folks have complained about. 
+I removed the existing tape and cleaned off the remaing residue with Goo Gone.  Then I went to my local Lowes and had them cut some glass for me.  I had them cut it roughly 130mm by 140mm.  I also stopped by my local MicroCenter and picked up a couple packs of [Heatsink Thermal Pads](https://www.amazon.com/StarTech-com-Heatsink-Thermal-Pads-HSFPHASECM/dp/B0009B0K2I).  I have to be honest in that I'm not 100% thrilled by the pads, but they seem to have done the trick.  Check the reviews on Amazon; a few of the pads didn't stick well and go along with what folks have complained about. 
 
 I placed the glass onto the bed and placed binder clips all around to squeeze it onto the pads (not pictured).  After ensuring everything was level and the distance from the extruder was good I removed the clamps and set out to reprint another bed spacer in case the current one cracks (backup parts are the best parts!).
 
@@ -89,7 +89,7 @@ I placed the glass onto the bed and placed binder clips all around to squeeze it
 	<figcaption>Glass Bed Spacer</figcaption>
 </figure>
 
-So far, so good-- though it has only been one print so far.  Time will tell if this was a good idea or not...
+So far, so good-- though it has only been one print so far.  Time will tell if this was a good idea or not.
 
 
  
